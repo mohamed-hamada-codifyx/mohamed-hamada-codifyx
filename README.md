@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 🎯 I'm a **Software Developer** passionate about building efficient and modern applications.  
 💡 Currently mastering **C++**, **Algorithms**, and **Problem Solving** to build a strong technical foundation.  
@@ -19,6 +19,8 @@
 🌍 Based in **Egypt 🇪🇬**, and I'm always curious to learn more about new technologies!
 
 ---
+
+## 👨‍💻 Tech Stack
 
 ### Languages:
 <p>
@@ -48,7 +50,9 @@
 ## 📬 Connect with me
 
 - 📧 Email: [mohamedhmadt2@gmail.com](mailto:mohamedhmadt2@gmail.com)
-- 🐦 Follow me on GitHub:  
+- 🐦 Follow me on GitHub: https://github.com/mohamed-hamada-codifyx
+
+
   [![GitHub followers](https://img.shields.io/github/followers/mohamed-hamada-codifyx?label=Follow&style=social)](https://github.com/mohamed-hamada-codifyx)
 
 ---
